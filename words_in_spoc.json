@@ -1,0 +1,694 @@
+{
+  "Chapter1": {
+    "alter,altru,ali": {
+      "含义": "other;to change",
+      "alternative": "替代",
+      "alter": "改变",
+      "alien": "外星人,外侨"
+    },
+    "pel,pell,puls": {
+      "含义": "to drive;to push",
+      "compel": "迫使",
+      "impulsive": "冲动的",
+      "repellent": "令人讨厌的、排斥的(adj.),防水布、排斥力(n.)"
+    },
+    "cid,cis": {
+      "含义": "to cut;to kill",
+      "concise": "简洁",
+      "suicide": "自杀",
+      "insecticide": "杀虫剂"
+    },
+    "-context-": {
+      "acknowledge": "确认,确认",
+      "alternative": "替代",
+      "anecdote": "轶事",
+      "appropriate": "适当",
+      "avert": "避免",
+      "candid": "坦率",
+      "compel": "迫使,强迫",
+      "comply": "服从",
+      "concise": "简洁",
+      "drastic": "激烈"
+    }
+  },
+  "Chapter2": {
+    "log": {
+      "含义": "word;to speak",
+      "dialog": "对话,会话",
+      "monolog": "独白",
+      "trilogy": "三部曲"
+    },
+    "lumin,lustr,luc,lux": {
+      "含义": "to light, shine",
+      "illuminate": "照亮,说明",
+      "deluxe": "豪华的",
+      "Lucifer": "路西法（《圣经》中的人物,堕天使）,金星"
+    },
+    "fug,fugit": {
+      "含义": "to flee, escape",
+      "refuge": "避难所",
+      "refugee": "难民",
+      "fugitive": "逃亡者"
+    },
+    "-context-": {
+      "dialog": "对话,会话",
+      "erratic": "不稳定",
+      "extensive": "广泛",
+      "forfeit": "丧失",
+      "fortify": "增强",
+      "illuminate": "照亮,说明",
+      "isolate": "隔离",
+      "refuge": "避难所",
+      "reminisce": "回忆",
+      "urban": "城市的"
+    }
+  },
+  "Chapter3": {
+    "part": {
+      "含义": "part",
+      "impartial": "公正,不偏不倚",
+      "(compartment)": "隔间",
+      "(apartment)": "公寓(中的一个套间)",
+      "department": "部门,系(比如英语系啥的)",
+      "particle": "粒子"
+    },
+    "leg": {
+      "含义": "law, to read",
+      "legitimate": "合法",
+      "legalize": "合法化",
+      "illegible": "难以辨认"
+    },
+    "naiv,naiss,nat": {
+      "含义": "to be born",
+      "naive": "天真的",
+      "innate": "与生俱来的,天生的",
+      "renaissance": "文艺复兴"
+    },
+    "-context-": {
+      "delete": "刪除",
+      "impartial": "公正,不偏不倚",
+      "integrity": "诚实,正直(a man of integrity);完整,完全",
+      "legitimate": "合法",
+      "lenient": "宽容,仁慈(be lenient with/about)",
+      "menace": "威胁(menace to)",
+      "morale": "情绪(moral:道德的,伦理的;故事的寓意)",
+      "naive": "天真的",
+      "overt": "公开(隐蔽:covert)",
+      "undermine": "逐渐削弱,暗中损害"
+    }
+  },
+  "Chapter4": {
+    "force,fort": {
+      "含义": "strong;strength",
+      "reinforce": "加强,加固;巩固",
+      "fortify": "加强,强化",
+      "fort": "城堡"
+    },
+    "spect": {
+      "含义": "to look",
+      "prospect(s)": "(成功的)机会,前景",
+      "retrospect": "回顾",
+      "introspect": "内省"
+    },
+    "path,pass": {
+      "含义": "feelings;sufferings",
+      "apathy": "冷漠;无兴趣",
+      "sympathy/compassion": "同情",
+      "telepathy": "感应"
+    },
+    "-context-": {
+      "agenda": "议程;日程",
+      "antidote": "解药(antidote for/to)",
+      "apathy": "冷漠;无兴趣",
+      "bland": "枯燥乏味的;清淡无味的",
+      "propaganda": "宣传(强调有诱导性的宣传.相比而言,更为中性的publicity在使用上较为安全)",
+      "prospect(s)": "(成功的)机会,前景",
+      "radical": "激进的",
+      "reinforce": "加强,加固;巩固",
+      "relevant": "相关的;切题的",
+      "ruthless": "无情的;残忍的"
+    }
+  },
+  "Chapter5": {
+    "rod,ros": {
+      "含义": "to bite, gnaw",
+      "erode": "侵蚀",
+      "corrode": "腐蚀",
+      "rodent": "啮齿动物"
+    },
+    "nov, novo": {
+      "含义": "new",
+      "novice": "新手",
+      "renovate": "修复翻新",
+      "innovate": "创新"
+    },
+    "st, sta": {
+      "含义": "to stand",
+      "obstacle": "障碍",
+      "contrast": "对比",
+      "substance": "实质"
+    },
+    "-context-": {
+      "imply": "暗示;暗指",
+      "obstacle": "障碍(pose an obstacle, an obstacle to)",
+      "hypocrite": "伪君子;伪善者",
+      "illusion": "假象;错觉;幻觉",
+      "endorse": "背书;公开支持;代言",
+      "gruesome": "可怕的;恐怖的",
+      "novice": "新手;初学者",
+      "impact": "冲撞;影响(impact on sth./impact sth.)",
+      "erode": "侵蚀",
+      "idealistic": "理想化的"
+    },
+    "-more-": {
+      "insincere": "言不由衷的"
+    }
+  },
+  "Chapter7": {
+    "ced, ceed": {
+      "含义": "to go;yield",
+      "concede": "让步,(不情愿地)承认(失败)",
+      "recede": "(渐渐)后退,(逐渐)减弱",
+      "precede": "先于,处于...前面的位置",
+      "(precedent)": "先例;先前的",
+      "proceed": "行进;继续做",
+      "procedure": "步骤"
+    },
+    "nounce": {
+      "含义": "to report",
+      "denounce": "公开指责,公然抨击",
+      "pronounce": "发音",
+      "announce": "宣布;广播"
+    },
+    "tain": {
+      "含义": "to hold",
+      "sustain": "保持",
+      "retain": "保留,保持",
+      "detain": "扣留;耽搁"
+    },
+    "-context-": {
+      "concede": "让步,(不情愿地)承认(失败)",
+      "conservative": "保守党;保守的",
+      "contrary": "相反,反面;对抗的,逆向的",
+      "denounce": "公开指责,公然抨击",
+      "deter": "震慑,制止",
+      "disclose": "揭露",
+      "scapegoat": "替罪羊",
+      "superficial": "表面的,肤浅的",
+      "sustain": "保持",
+      "transition": "过渡"
+    },
+    "-more-": {
+      "polysemy": "一词多义",
+      "affixation": "附加"
+    }
+  },
+  "Chapter9": {
+    "em, empt, ampl": {
+      "含义": "to make",
+      "ample": "充足(sample:例子)",
+      "exempt": "豁免,免除(exemption n.)",
+      "redeem": "买回,赎回,补救(redemption n.)(beyond/past redemption)"
+    },
+    "chron, chrono": {
+      "含义": "time",
+      "chronic": "长期患病的,长期有某种习惯的;长期的,慢性的",
+      "chronological": "按时间顺序的(in (reverse) chronological order)",
+      "synchronize": "同步"
+    },
+    "optim": {
+      "含义": "best",
+      "optimist": "乐观主义者"
+    },
+    "opt": {
+      "含义": "to choose",
+      "option": "选项"
+    },
+    "op, opt": {
+      "含义": "eye",
+      "myopia": "近视;目光短浅"
+    },
+    "-context-": {
+      "alter": "改变",
+      "ample": "充足",
+      "blunt": "不锋利的,钝的;坦诚的,直率的;不客气的,欠圆通的(to be blunt about sth. with sb.)",
+      "chronic": "长期患病的,长期有某种习惯的;长期的,慢性的",
+      "(acute)": "急性的;严重的,剧烈的;锐(角)",
+      "chronological": "按时间顺序的(in (reverse) chronological order)",
+      "optimist": "乐观主义者",
+      "(pessimist)": "悲观主义者",
+      "pretense": "假装;虚伪",
+      "prolong": "使延长",
+      "refrain": "抑制;副歌(refrain (oneself) from)",
+      "remorse": "遗憾,悔恨"
+    }
+  },
+  "Chapter10": {
+    "onym": {
+      "含义": "name;to name",
+      "anonymous": "匿名的,不具名的",
+      "nominate": "提名,任命",
+      "homonym": "同音异义词"
+    },
+    "min": {
+      "含义": "to project;small",
+      "prominent": "突出的,显眼的;杰出的,著名的",
+      "imminent": "临近的,迫在眉睫的",
+      "diminish": "减少,缩减"
+    },
+    "cip,cap,cup,ceive,cept,capt": {
+      "含义": "to take,hold,seize",
+      "recipient": "接收者,领受者",
+      "reciprocate": "回报,报答",
+      "perceive": "察觉,感知(perception n.)(perceptive a.)"
+    },
+    "-context-": {
+      "acute": "急性的;严重的,剧烈的;锐(角)",
+      "anonymous": "匿名的,不具名的",
+      "apprehensive": "担忧的",
+      "(frown)": "皱眉",
+      "(wrinkle)": "皱纹",
+      "arrogant": "傲慢的",
+      "bestow": "赐给(bestow sth. on sb.)",
+      "donor": "捐赠者",
+      "phobia": "恐惧症",
+      "prominent": "突出的,显眼的;杰出的,著名的",
+      "prudent": "审慎的",
+      "recipient": "接收者,领受者"
+    }
+  },
+  "Chapter11": {
+    "here,hes,herit,hesit": {
+      "含义": "to stick",
+      "adhere": "粘着,附着",
+      "coherent": "连贯的,条理清楚的",
+      "hesitation": "犹豫"
+    },
+    "flu": {
+      "含义": "to flow",
+      "affluent": "富裕的,富足的",
+      "fluctuate": "上下移动,波动",
+      "influenza": "流感"
+    },
+    "doc,dog,dox": {
+      "含义": "to teach",
+      "doctrine": "教义,学说",
+      "dogmatic": "教条的;武断的",
+      "orthodox": "正统的,正宗的"
+    },
+    "-context-": {
+      "absurd": "荒谬的,无理的",
+      "adhere": "粘着,附着",
+      "affluent": "富裕的,富足的",
+      "alienate": "疏远,远离;让渡,转让",
+      "assess": "对...征税;估价,评定",
+      "compile": "收集;编纂",
+      "contempt": "轻视,藐视",
+      "defect": "缺陷,瑕疵",
+      "doctrine": "教义,学说",
+      "dogmatic": "教条的;武断的"
+    }
+  },
+  "Chapter14": {
+    "fict,fect,fact": {
+      "含义": "to make, to do",
+      "fictitious": "虚构的,编的",
+      "manufacture": "生产,制造",
+      "defect": "缺陷,瑕疵"
+    },
+    "fall,fals": {
+      "含义": "to err",
+      "fallacy": "谬论;谬误",
+      "fallible": "容易犯错的",
+      "falsetto": "假声,假音"
+    },
+    "volv,volu": {
+      "含义": "to roll, to turn",
+      "evolve": "逐步发展,演变",
+      "devolve": "(权力)下放",
+      "revolve": "围绕;回转"
+    },
+    "-context-": {
+      "fictitious": "虚构的,编的",
+      "evolve": "逐步发展,演变",
+      "encounter": "偶遇;邂逅",
+      "ecstatic": "狂喜的",
+      "liable": "可能的,有...倾向的",
+      "pessimist": "悲观主义者",
+      "dubious": "犹豫不决的",
+      "miserly": "吝啬(鬼般)的",
+      "fallacy": "谬论;谬误",
+      "gullible": "易受骗上当的"
+    }
+  },
+  "Chapter15": {
+    "laps": {
+      "含义": "slip",
+      "elapase": "(时间)流逝,过去",
+      "relapse": "旧病复发,倒退",
+      "collapse": "倒塌,(人)倒下"
+    },
+    "vas,vad": {
+      "含义": "go, walk",
+      "evasive": "含糊的,回避的",
+      "pervade": "贯穿,弥漫",
+      "wade": "跋涉(v. n.)"
+    },
+    "sess,sed,sid": {
+      "含义": "sit, settle",
+      "obsession": "执念,困扰,着迷",
+      "sedate": "平静从容的",
+      "subside": "退落,平息,平静"
+    },
+    "-context-": {
+      "elapase": "(时间)流逝,过去",
+      "(eclipse)": "(天体)食(如日食);黯然失色",
+      "evasive": "含糊的,回避的(adj.)",
+      "(evasion)": "逃避,回避(n.)",
+      "(evade)": "逃避,回避(v.)",
+      "fluent": "流利的,流畅的(fluency n.)",
+      "futile": "徒劳无益的,无希望的(is futile for sb. to do sth.)",
+      "(fertile)": "肥沃的;丰硕的",
+      "harass": "骚扰,烦扰(harassment n.)",
+      "infer": "推断,推定",
+      "lethal": "致命的,毁灭性的",
+      "obsession": "执念,困扰,着迷",
+      "(obsessive)": "强迫症的",
+      "ordeal": "折磨,煎熬",
+      "persistent": "执意的,持续的,坚持不懈的(persistence n.)"
+    },
+    "-more-": {
+      "etymology": "词源",
+      "conceal": "隐藏"
+    }
+  },
+  "Chapter17": {
+    "fer": {
+      "含义": "to carry",
+      "defer": "服从,听从(defer to sb.)(deference n.)(deferential adj.)",
+      "infer": "推断,推定(inference n.)(inferential adj.)",
+      "confer": "商议,磋商)(conference n.)"
+    },
+    "equ,equi": {
+      "含义": "equal, same",
+      "equate": "等同于(v.)(equate sth. with sth.)",
+      "equator": "赤道",
+      "equivalent": "同等的;等价物,等值物(n. a.)"
+    },
+    "pos": {
+      "含义": "to put;to place",
+      "impose": "强加于(impose (sth.) on);打扰;利用(impose on sb.)(imposion n.)",
+      "compose": "撰写;构成,组成(be composed of)(composition n.)",
+      "expose": "曝光(expose sb/sth. to sth.)(exposure n.)"
+    },
+    "-context-": {
+      "defer": "服从,听从",
+      "endeavor": "努力,尽力(endeavor to do sth.)",
+      "equate": "等同于(v.)(equate sth. with sth.)",
+      "impose": "强加于(impose (sth.) on);打扰;利用(impose on sb.)",
+      "indignant": "愤慨的,愤怒的",
+      "inevitable": "不可避免的",
+      "malicious": "邪恶的,恶毒的",
+      "(spiteful)": "刻毒的",
+      "(mean)": "卑鄙的,刻薄的",
+      "(wicked)": "邪恶的",
+      "option": "选择",
+      "passive": "被动的",
+      "patron": "老顾客,老主顾;常客;资助人",
+      "(patronize)": "宠幸;经常光顾(Thank you for patronizing 谢谢惠顾)"
+    }
+  },
+  "Chapter19": {
+    "apt,ept": {
+      "含义": "to fit/suit",
+      "adapt": "(使)适应",
+      "inept": "不适合/笨拙的",
+      "aptitude": "天资能力"
+    },
+    "gest": {
+      "含义": "to carry",
+      "gesture": "姿态,表示",
+      "ingest": "摄取(食物等)",
+      "digest": "消化(n. v.)"
+    },
+    "vert,vers": {
+      "含义": "to turn",
+      "revert": "恢复,回到",
+      "controversy": "争议",
+      "diversity": "多样性"
+    },
+    "-context-": {
+      "adapt": "(使)适应",
+      "dismay": "使沮丧气馁",
+      "exile": "流放,流亡",
+      "gesture": "姿态,表示",
+      "recede": "退,退去",
+      "reciprocate": "回报,报答",
+      "refute": "驳斥,反驳",
+      "retain": "保留,保持",
+      "revert": "恢复,回到",
+      "ritual": "仪式,惯例"
+    }
+  },
+  "Chapter20": {
+    "merg,mers": {
+      "含义": "to sink,dip",
+      "emerge": "出现,出来",
+      "submerge": "使没入水中",
+      "immerse": "使沉浸于,专心于;使浸没于(液体)"
+    },
+    "liber,liver": {
+      "含义": "free",
+      "liberal": "慷慨大方的;开明自由的",
+      "deliver": "解救;递送;发表(讲话)"
+    },
+    "liber,libr": {
+      "含义": "balance(n. 天平)",
+      "equilibrium": "均衡;安宁"
+    },
+    "mide,med": {
+      "含义": "middle,half",
+      "mediocre": "平庸的,普通的",
+      "medium": "(n.)媒介,介质;(a.)中等的",
+      "median": "中央的,中值的"
+    },
+    "-context-": {
+      "elaborate": "详尽的,精美的",
+      "emerge": "出现,出来",
+      "exotic": "外来的",
+      "frugal": "节约的,节俭的",
+      "impulsive": "冲动的",
+      "indifferent": "不关心的,不在乎的",
+      "indulgent": "纵容的,溺爱的",
+      "liberal": "慷慨大方的;开明自由的",
+      "mediocre": "平庸的,普通的",
+      "notable": "著名的,显要的"
+    },
+    "-more-": {
+      "题外话": "推测老师做网课的参考资料可能包含youdict的以下几个页面",
+      "http://www.youdict.com/root/search?wd=%s": "搜索词根,%s即为搜索目标,也输入单词来搜索词中的词根",
+      "http://www.youdict.com/root/": "上面那个的主页面,展示随机词根",
+      "http://www.youdict.com/w/%s": "搜索单词,除释义外还可能得到单词的词根组合方式",
+      "http://www.youdict.com/w/": "上面那个的主页面,展示随机单词"
+    }
+  },
+  "Chapter21": {
+    "mun,mon": {
+      "含义": "public",
+      "immunity": "豁免,免除(immunity from 免除)(immunity to/against 对...(具有)免疫力)",
+      "community": "社区;团体",
+      "municipal": "市政的,城市的(municipal facilities 市政设施)"
+    },
+    "firm": {
+      "含义": "to strengthen;strong",
+      "affirm": "断言,申明",
+      "confirm": "证实,肯定",
+      "infirmary": "医院"
+    },
+    "lud,lus": {
+      "含义": "to laugh;to play",
+      "allude": "暗指,影射(allude to sth.)",
+      "collusion": "共谋,密谋",
+      "prelude": "前奏曲",
+      "(interlude)": "插曲",
+      "(postlude)": "终曲,片尾曲"
+    },
+    "-context-": {
+      "affirm": "断言,申明",
+      "alleged": "声称的,所谓的",
+      "allude": "暗指,影射",
+      "coerce": "强制,迫使(v.)(coerce sb. into doing sth.)(compel sb to do sth.)",
+      "(coercion)": "强制,迫使(n.)",
+      "elite": "精华的,杰出的",
+      "essence": "本质,实质(in essence 大体上)(of the essence 极其重要的,必不可少的,等同于essential)",
+      "immunity": "豁免,免除",
+      "impair": "损害,损伤",
+      "query": "询问",
+      "sadistic": "施虐狂的,残忍的(Sadism and Masochism 没错,这个就是就是S的形容词)"
+    },
+    "-more-": {
+      "thrift": "(n.)节约"
+    }
+  },
+  "Chapter22": {
+    "vok,voc": {
+      "含义": "voice;to call",
+      "provoke": "激起,激怒",
+      "revoke": "撤销,废除",
+      "vocabulary": "词汇"
+    },
+    "cur": {
+      "含义": "to run",
+      "recur": "复发,重现",
+      "occur": "发生",
+      "incur": "蒙受,招致(sb. incurs sth.)"
+    },
+    "mand": {
+      "含义": "to order",
+      "reprimand": "训斥,惩戒(give/get a reprimand for)",
+      "command": "命令",
+      "Mandarin": "普通话"
+    },
+    "-context-": {
+      "plausible": "看似合理可信的",
+      "provoke": "激起,激怒",
+      "recur": "复发,重现",
+      "reprimand": "训斥,惩戒(give/get a reprimand for)",
+      "revoke": "撤销,废除",
+      "ridicule": "嘲笑,戏弄",
+      "shrewd": "精明的",
+      "skeptical": "怀疑的",
+      "stereotype": "刻板印象",
+      "tactic": "战术,招数"
+    },
+    "-more-": {
+      "scolding": "痛骂"
+    }
+  },
+  "Chapter23": {
+    "co,com,con": {
+      "含义": "together, together with, with",
+      "consequence": "结果;重要性;推论(con-\"together\" + seq-\"connect\" + ence 将线索归拢并串联起来得到推论)",
+      "combine": "(使)联合,(使)结合;(使)化合(con-\"together\" + bine-\"two\" 合二为一)",
+      "conflict": "冲突(con-\"together\" + flict-\"to stike\" 一起打架)"
+    },
+    "sem(sembl), sim(simul, simil)": {
+      "含义": "same, like, equal",
+      "simultaneous": "同时的;联立的;同时发生的;同时译员(simul-\"at same time\" + t-\"just place holder\" + aneous-\"suffix\" 就是同时)",
+      "assimilate": "使同化;把…比作;消化;理解(as-\"to\" + simil-\"make similar\" + -ate 使变成一样)",
+      "resemble": "像,相像(re-\"again or intensive prefix\" + sembl-\"same\" + e 的确是像)"
+    },
+    "viv,vit,vita,vito": {
+      "含义": "life, living, pertaining to life, essential to life",
+      "vital": "至关重要的;生死攸关的;有活力的(vit-\"living\" + al-\"of the kind of,relating to 有关活着的,活着的玩意\" )",
+      "revival": "复兴;复活;苏醒;恢复精神;再生效(re + vival 又活了)",
+      "vitamin": "维生素,维他命(vit-\"life\" + amin-\"ammonia(氨)\"(有意思的是,原本这里是amine的,但后来发现这玩意并不属于氨,所以就把e给去掉了,这真的有什么区别吗¯\\_(ツ)_/¯)"
+    },
+    "-context-": {
+      "consequence": "结果;重要性;推论",
+      "destiny": "命运,定数,天命",
+      "detain": "拘留;留住;耽搁",
+      "diminish": "(使)减少;(使)变小",
+      "procrastinate": "耽搁,延迟",
+      "simultaneous": "同时的;联立的;同时发生的;同时译员",
+      "strategy": "战略,策略",
+      "tedious": "沉闷的;冗长乏味的",
+      "transaction": "交易;事务;办理;会报,学报",
+      "vital": "至关重要的;生死攸关的;有活力的"
+    }
+  },
+  "Chapter26": {
+    "scend": {
+      "含义": "to climb",
+      "ascend": "攀登;上升(to move upward)(ascend sth. 攀登,登(基)(asend to sth. 上升)",
+      "descend": "下(降)(be descended from 是...的后裔/出身于)(descendant 后裔,后代)",
+      "transcend": "超出,超越"
+    },
+    "gen,gn": {
+      "含义": "birth,creation,kind",
+      "ingenious": "有创造力的",
+      "pregnant": "怀孕的",
+      "genesis": "起源"
+    },
+    "fin": {
+      "含义": "end,boundary,limit",
+      "finite": "有限的(limit)",
+      "define": "下定义,界定",
+      "confine": "限定,局限于(confine sb. to sth.)(be confined to)"
+    },
+    "-context-": {
+      "ascend": "攀登;上升(to move upward)(ascend sth. 攀登,登(基)(asend to sth. 上升)",
+      "finite": "有限的(limit)",
+      "infinite": "无限的(endless)",
+      "inflict": "造成;使遭受(to casue, to be suffered)",
+      "ingenious": "有创造力的",
+      "initiate": "创始;发起(to cause to begin)(initial 开始的a./首字母n.)(initiative 主动性/新举措n.)",
+      "literally": "按照字面地(in a literal manner, exactly),差不多地/几乎/简直(intensifier表强调<-informal usage非正式用法)",
+      "lure": "引诱,诱惑(n.)(to tempt)",
+      "(tempt)": "诱惑(v.)",
+      "mania": "狂热,躁狂症(extremely enthusiasm)(manic n.)",
+      "nostalgia": "怀旧,思乡病(longing for the past)(overcome/filled/overwhelmed with nostalgia 得思乡病)(nostalgic n.)"
+    }
+  },
+  "Chapter27": {
+    "ven,vent": {
+      "含义": "to come",
+      "intervene": "介入,插进(to come between)(intervention n.)(intervene between 介于...之间(强调时间上))(intervene in sth. 干预,调停)",
+      "convene": "召集,召开(convention 大会,公约,习俗n.)",
+      "circumvent": "规避(circumvent the obstacle 绕过障碍)(circumvent rules/regulations 规避/回避规章制度/规则)"
+    },
+    "morb,mort": {
+      "含义": "death",
+      "morbid": "病态的,可怖的",
+      "immortal": "长生的,不朽的(adj..),神仙,流芳百世之人(n.)",
+      "mortgage": "抵押贷款,按揭"
+    },
+    "para,par": {
+      "含义": "beside,alongside(Important prefix)",
+      "parallel": "平行的,类似的(adj.),平行线,相似性(n.),与...平行/类似(v.)",
+      "parasite": "寄生虫,不劳而获者",
+      "paraphrase": "释义,改述,意译"
+    },
+    "-context-": {
+      "data": "资料,材料,数据(information)(data traffic 数据流量)",
+      "inept": "无能的,笨拙的(unskilled)(be inept at 在...方面无能)(socially inept 社交无能,作为一个晕人症患者,在这里被老师扎心了)",
+      "(adept)": "娴熟的(adj.),娴熟的人(n.)",
+      "(unskilled)": "笨拙无能的",
+      "(clumsy)": "笨拙无能的",
+      "innate": "天生的,天然的,固有的(inherited)(innate immunity 先天免疫)",
+      "(inborn)": "天生的,天然的,固有的",
+      "(inherent)": "天生的,天然的,固有的",
+      "intervene": "介入,插进(to come between)",
+      "lament": "哀悼,痛惜,悲叹,挽歌(to mourn)(n.)",
+      "(sorrow)": "悲哀(n.)",
+      "(mourn)": "哀悼(v.)",
+      "morbid": "病态的,可怖的(horrible)",
+      "obstinate": "固执的,倔强的(stubborn)",
+      "(headstrong)": "固执的,倔强的",
+      "(stubborn)": "顽固的(as stubborn as mule 像骡子一样顽固)",
+      "parallel": "平行的,类似的(apart an equal distance at every point)(adj.),平行线,相似性(n.),与...平行/类似(v.)",
+      "perceptive": "感知的,富有洞察力的(aware)(perception n.)(perceptive v.)(perceptive insight)(perceptive observation)",
+      "(aware)": "知道的,注意到",
+      "(acute)": "精明(拥有或表现出敏锐的理解或洞察力)",
+      "sedate": "平静的,从容的(calm)(adj.),使...镇静(v.)(a sedate pacec 从容的节奏/步伐)",
+      "(calm&relaxed)": "平静的,从容的(adj.),使...镇静(v.)",
+      "(unemotional)": "平静的,从容的(adj.),使...镇静(v.)"
+    },
+    "-more-": {
+      "immunity": "免疫力(innate immunity 先天免疫)",
+      "mule": "骡子(as stubborn as mule 像骡子一样顽固)",
+      "pace": "步伐(a sedate pacec 从容的节奏/步伐)",
+      "insight": "洞察力,眼光(perceptive insight)",
+      "observation": "观察力(perceptive observation)",
+      "traffic": "有\"流量\"的含义(data traffic 数据流量)",
+      "transmission": "传输(data transmission 数据传输)",
+      "integrity": "完整性(data integrity 数据完整性)",
+      "gruesome": "可怖的"
+    },
+    "-old-": {
+      "contempt": "鄙视(have comtempt for)",
+      "mediocre": "平庸的",
+      "lenient": "宽容的"
+    }
+  }
+}

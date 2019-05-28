@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Weekly voca</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.js"></script>
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TweenMax.min.js"></script>
+
+
+  <style>
+    html {
+      height: 100%;
+    }
+
+    body {
+      height: 100%;
+      font-family: Menlo, Consolas, monospace;
+      color: azure;
+      background-color: #666;
+    }
+
+    .item {
+      cursor: pointer;
+    }
+
+    .bold {
+      font-weight: bold;
+    }
+
+    .tab-button {
+      padding: 6px 10px;
+      border-top-left-radius: 3px;
+      border-top-right-radius: 3px;
+      border: 1px solid #ccc;
+      cursor: pointer;
+      background: #f0f0f0;
+      margin-right: 0.3em;
+      margin-bottom: -1px;
+    }
+
+    .tab-button:hover {
+      background: #e0e0e0;
+    }
+
+    .tab-button.active {
+      background: #e0e0e0;
+    }
+
+    .tab-content {
+      width: 95%;
+      padding: 0.3em;
+      border-style: solid;
+      margin-bottom: 1em;
+    }
+
+    ul {
+      padding-left: 0.3em;
+      padding-right: 0;
+      line-height: 1.5em;
+      list-style-type: none;
+      background-color: #444;
+      border-style: ridge;
+    }
+
+    textarea {
+      width: 98%;
+      height: 85vh;
+      background-color: #444;
+      color: azure
+    }
+  </style>
+</head>
+
+<body>
+  <script type="text/x-template" id="item-template">
+      <li>
+        <div :class="{bold: isFolder}" @click="toggle">
+        <p>{{ index }}<span v-if="isFolder">[{{ isOpen ? '-' : '+' }}]</span></p>
+        </div>
+        <ul  v-show="isOpen" v-if="isFolder" v-for="(child,childIndex) in item" :key="childIndex">
+            <tree-item class="item" v-if="child instanceof Object" :key="String(childIndex)" :item="child" :index="childIndex"></tree-item>
+            <p v-else>{{childIndex}}: {{child}}</p>
+        </ul>
+        <p v-if="!isFolder">{{item}}</p>
+      </li>
+  </script>
+
+  <div id="demo" style="height:100%">
+    <button v-for="tab in tabs" v-bind:key="tab" v-bind:class="['tab-button', { active: currentTab === tab }]"
+      v-on:click="currentTab = tab" :style="{ width: 16*tabs.length>100?(95/tabs.length):16+'%' }">
+      {{ tab }}
+    </button>
+    <div class="tab-content">
+
+      <textarea v-model="input" v-if="animatedTextareaHeight!=0" :key='"json"'
+        :style="{height:animatedTextareaHeight+'vh'}"></textarea>
+
+      <div :key='"tree"' v-if="currentTab!='JSON'">
+        <ul v-for="(word,index) in treeData" :key="index">
+          <tree-item class="item" v-if="word instanceof Object" :key="String(index)" :item="word" :index="String(index)"></tree-item>
+          <p v-else>{{index}}: {{word}}</p>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+
+  <script>
+    "use strict"
+
+    let words_in_spoc_url = "words_in_spoc.json";
+
+    Vue.component('tree-item', {
+      template: '#item-template',
+      props: {
+        index: String,
+        item: Object
+      },
+      data: function () {
+        return {
+          isOpen: false
+        }
+      },
+      computed: {
+        isFolder: function () {
+          return this.item instanceof Object
+        }
+      },
+      methods: {
+        toggle: function () {
+          if (this.isFolder) {
+            this.isOpen = !this.isOpen
+          }
+        }
+      }
+    })
+
+
+    const demo = new Vue({
+      el: '#demo',
+      data: {
+        input: '{"status":"loading"}',
+        currentTab: 'Tree',
+        tabs: ['Tree', 'JSON', 'Both'],
+        textareaHeight: 0,
+      },
+      created: function () {
+        /*
+        axios.get(words_in_spoc_url)
+          .then(response) => {
+            this.input = JSON.stringify(response.data);
+          });*/
+        $.ajax({
+          url: words_in_spoc_url,
+          type: 'Get',
+          success: function (result) {
+            demo.input = JSON.stringify(result);
+          }
+        });
+      },
+      computed: {
+        treeData: function () {
+          return JSON.parse(String(this.input));
+        },
+        animatedTextareaHeight: function () {
+          return this.textareaHeight.toFixed(0);
+        },
+      },
+      watch: {
+        currentTab: function (newType) {
+          let textareaHeightToVal = 0;
+          switch (newType) {
+            case 'Tree':
+              textareaHeightToVal = 0;
+              break;
+            case 'JSON':
+              textareaHeightToVal = 85;
+              break;
+            case 'Both':
+              textareaHeightToVal = 16;
+              break;
+          }
+          TweenLite.to(this.$data, 0.5, { textareaHeight: textareaHeightToVal });
+        }
+      }
+    });
+
+  </script>
+
+</body>

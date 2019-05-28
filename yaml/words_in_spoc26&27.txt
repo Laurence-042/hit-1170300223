@@ -1,0 +1,82 @@
+Chapter26:
+  scend:
+    含义: to climb
+    ascend: 攀登;上升(to move upward)(ascend sth. 攀登,登(基)(asend to sth. 上升)
+    descend: 下(降)(be descended from 是...的后裔/出身于)(descendant 后裔,后代)
+    transcend: 超出,超越
+  gen,gn:
+    含义: birth,creation,kind
+    ingenious: 有创造力的
+    pregnant: 怀孕的
+    genesis: 起源
+  fin:
+    含义: end,boundary,limit
+    finite: 有限的(limit)
+    define: 下定义,界定
+    confine: 限定,局限于(confine sb. to sth.)(be confined to)
+  "-context-":
+    ascend: 攀登;上升(to move upward)(ascend sth. 攀登,登(基)(asend to sth. 上升)
+    finite: 有限的(limit)
+    infinite: 无限的(endless)
+    inflict: 造成;使遭受(to casue, to be suffered)
+    ingenious: 有创造力的
+    initiate: 创始;发起(to cause to begin)(initial 开始的a./首字母n.)(initiative 主动性/新举措n.)
+    literally: 按照字面地(in a literal manner, exactly),差不多地/几乎/简直(intensifier表强调<-informal usage非正式用法)
+    lure: 引诱,诱惑(n.)(to tempt)
+    (tempt): 诱惑(v.)
+    mania: 狂热,躁狂症(extremely enthusiasm)(manic n.)
+    nostalgia: 怀旧,思乡病(longing for the past)(overcome/filled/overwhelmed with nostalgia 得思乡病)(nostalgic n.)
+Chapter27:
+  ven,vent:
+    含义: to come
+    intervene: 介入,插进(to come between)(intervention n.)(intervene between 介于...之间(强调时间上))(intervene in sth. 干预,调停)
+    convene: 召集,召开(convention 大会,公约,习俗n.)
+    circumvent: 规避(circumvent the obstacle 绕过障碍)(circumvent rules/regulations 规避/回避规章制度/规则)
+  morb,mort:
+    含义: death
+    morbid: 病态的,可怖的
+    immortal: 长生的,不朽的(adj..),神仙,流芳百世之人(n.)
+    mortgage: 抵押贷款,按揭
+  para,par:
+    含义: beside,alongside(Important prefix)
+    parallel: 平行的,类似的(adj.),平行线,相似性(n.),与...平行/类似(v.)
+    parasite: 寄生虫,不劳而获者
+    paraphrase: 释义,改述,意译
+  "-context-":
+    data: 资料,材料,数据(information)(data traffic 数据流量)
+    inept: 无能的,笨拙的(unskilled)(be inept at 在...方面无能)(socially inept 社交无能,作为一个晕人症患者,在这里被老师扎心了)
+    (adept): 娴熟的(adj.),娴熟的人(n.)
+    (unskilled): 笨拙无能的
+    (clumsy): 笨拙无能的
+    innate: 天生的,天然的,固有的(inherited)(innate immunity 先天免疫)
+    (inborn): 天生的,天然的,固有的
+    (inherent): 天生的,天然的,固有的
+    intervene: 介入,插进(to come between)
+    lament: 哀悼,痛惜,悲叹,挽歌(to mourn)(n.)
+    (sorrow): 悲哀(n.)
+    (mourn): 哀悼(v.)
+    morbid: 病态的,可怖的(horrible)
+    obstinate: 固执的,倔强的(stubborn)
+    (headstrong): 固执的,倔强的
+    (stubborn): 顽固的(as stubborn as mule 像骡子一样顽固)
+    parallel: 平行的,类似的(apart an equal distance at every point)(adj.),平行线,相似性(n.),与...平行/类似(v.)
+    perceptive: 感知的,富有洞察力的(aware)(perception n.)(perceptive v.)(perceptive insight)(perceptive observation)
+    (aware): 知道的,注意到
+    (acute): 精明(拥有或表现出敏锐的理解或洞察力)
+    sedate: 平静的,从容的(calm)(adj.),使...镇静(v.)(a sedate pacec 从容的节奏/步伐)
+    (calm&relaxed): 平静的,从容的(adj.),使...镇静(v.)
+    (unemotional): 平静的,从容的(adj.),使...镇静(v.)
+  "-more-":
+    immunity: 免疫力(innate immunity 先天免疫)
+    mule: 骡子(as stubborn as mule 像骡子一样顽固)
+    pace: 步伐(a sedate pacec 从容的节奏/步伐)
+    insight: 洞察力,眼光(perceptive insight)
+    observation: 观察力(perceptive observation)
+    traffic: 有"流量"的含义(data traffic 数据流量)
+    transmission: 传输(data transmission 数据传输)
+    integrity: 完整性(data integrity 数据完整性)
+    gruesome: 可怖的
+  "-old-":
+    contempt: 鄙视(have comtempt for)
+    mediocre: 平庸的
+    lenient: 宽容的
