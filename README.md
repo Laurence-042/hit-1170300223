@@ -11,4 +11,5 @@ Just download it and put this folder under your website directory.
 =======
 ~*I realized that those buddy would rather use yaml......*~
 >>>>>>> a1badfe0fbef608355de62fffec72f7a4aefffbf
+你这是胡咧咧啊（i want to say that you are a foolish ,and your coding ability is really poor . it takes me a lot of time to understand your code)
 
